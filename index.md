@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Contact us at [kate-project[at]pasteur.fr](mailto:kate-project@pasteur.fr).
+Contact us at [kate-project@pasteur.fr](mailto:kate-project@pasteur.fr).
