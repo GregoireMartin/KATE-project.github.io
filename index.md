@@ -1,4 +1,4 @@
-## Welcome to the KATE website
+## KATE: Kicking Autism Through Entertainment
 
 You can use the [editor on GitHub](https://github.com/KATE-project/KATE-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
