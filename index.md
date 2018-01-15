@@ -1,36 +1,16 @@
-## KATE: Kicking Autism Through Entertainment
+# KATE: Kicking Autism Through Entertainment  
+## Pourquoi ce projet ?
+Les méthodes d'accompagnement des enfant autistes semblent aujourd'hui faire leur preuve, que ce soit sur l’amélioration du comportement en société ou sur la diminution des troubles. Néanmoins, elles nécessitent toutes l’intervention de personnel qualifié ainsi qu'une grande intervention des parents. Elles représentent donc un investissement important de temps et de moyen pour l’entourage d’un enfant autiste. Des méthodes alternatives devaient alors voir le jour, et c'est dans ce contexte que Kate est née!  
+ 
 
-You can use the [editor on GitHub](https://github.com/KATE-project/KATE-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KATE-project/KATE-project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Mais Kate, qu'est ce que c'est ?
+C'est un projet collaboratif visant à trouver, ensemble, comment vivre plus facilement avec l'autisme. Il s'agit de faire développer à des enfants autistes, grâce à un jeu vidéo, des comportements qu'ils n'auraient pu acquérir par eux même.  
+Kate est un moyen de rapprocher chercheurs, parents, volontaires à travers sa caractéristique "Open Source" qui permet donc de partager données, recherches bibliographiques mais surtout de donner la possibilité à chacun d'apporter sa contribution au jeu!   
+  
+## Les origines de Kate
+Kate a vu le jour en 2015 grâce à la collaboration de Guillaume Dumas, chercheur à l'Institut Pasteur, avec des groupes d'élèves de CentraleSupélec,en 2015: , en 2016: et en 2017:Xavier Tinel, Adil Dinia, Clémence Kopff et Marianne Clary.  
+### Un peu de documentation:
+[Bibliographie](https://www.zotero.org/groups/421637/asd-hmi-ecp?token=3a5ed22dae55d2fdcedd89bca7ac778e)
 
 ### Contact
 
