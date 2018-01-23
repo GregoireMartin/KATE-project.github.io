@@ -8,7 +8,7 @@ C'est un projet collaboratif visant à trouver, ensemble, comment vivre plus fac
 Kate est un moyen de rapprocher chercheurs, parents, volontaires à travers sa caractéristique "Open Source" qui permet donc de partager données, recherches bibliographiques mais surtout de donner la possibilité à chacun d'apporter sa contribution au jeu!   
   
 ## Les origines de Kate
-Kate a vu le jour en 2015 grâce à la collaboration de Guillaume Dumas, chercheur à l'Institut Pasteur, avec des groupes d'élèves de CentraleSupélec,en 2015: , en 2016: et en 2017:Xavier Tinel, Adil Dinia, Clémence Kopff et Marianne Clary.  
+Kate a vu le jour en 2015 grâce à la collaboration de Guillaume Dumas, chercheur à l'Institut Pasteur, avec des groupes d'élèves de CentraleSupélec,en 2015: Maxime Fetiveau, Younes Laaboudi, Jules Massin, Hugo Perrin, Olivier Polidori, Seung-eun Yi, en 2016:Matthieu Divet, Julien Malle, Sarah Saidani, Paul Viossat, Zairan Wang et en 2017: Xavier Tinel, Adil Dinia, Clémence Kopff et Marianne Clary.  
 ### Un peu de documentation:
 [Bibliographie](https://www.zotero.org/groups/421637/asd-hmi-ecp?token=3a5ed22dae55d2fdcedd89bca7ac778e)
 
