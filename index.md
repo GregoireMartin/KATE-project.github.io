@@ -14,4 +14,6 @@ Kate a vu le jour en 2015 grâce à la collaboration de Guillaume Dumas, cherche
 
 ### Contact
 
-Contact us at [kate-project@pasteur.fr](mailto:kate-project@pasteur.fr).
+Contact us at [kate-project@pasteur.fr](mailto:kate-project@pasteur.fr).  
+
+![Alt](https://github.com/ClaryM/KATE-project.github.io/blob/patch-1/logos.png?raw=true)
